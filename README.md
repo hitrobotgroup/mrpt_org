@@ -36,14 +36,15 @@ use visual studio to compile mrpt as normal
 # optional resources
 
 get source zips as follow
-[ffmpeg](https://raw.githubusercontent.com/hitrobotgroup/mrpt_org/master/src/ffmpeg-r16537-gpl-lshared-win32.tar.bz2)
-[flexiport](https://raw.githubusercontent.com/hitrobotgroup/mrpt_org/master/src/flexiport-master.zip)
-[ippicv](https://raw.githubusercontent.com/hitrobotgroup/mrpt_org/master/src/ippicv-windows-20141027.zip)
-[opencv_contrib](https://raw.githubusercontent.com/hitrobotgroup/mrpt_org/master/src/opencv_contrib-master.zip)
-[hokuyoaist](https://raw.githubusercontent.com/hitrobotgroup/mrpt_org/master/src/hokuyoaist-master.zip)
+* [ffmpeg](https://raw.githubusercontent.com/hitrobotgroup/mrpt_org/master/src/ffmpeg-r16537-gpl-lshared-win32.tar.bz2)
+* [flexiport](https://raw.githubusercontent.com/hitrobotgroup/mrpt_org/master/src/flexiport-master.zip)
+* [ippicv](https://raw.githubusercontent.com/hitrobotgroup/mrpt_org/master/src/ippicv-windows-20141027.zip)
+* [opencv_contrib](https://raw.githubusercontent.com/hitrobotgroup/mrpt_org/master/src/opencv_contrib-master.zip)
+* [hokuyoaist](https://raw.githubusercontent.com/hitrobotgroup/mrpt_org/master/src/hokuyoaist-master.zip)
 
 get manuals as follow
-[mrpt_book](https://raw.githubusercontent.com/hitrobotgroup/mrpt_org/master/man/mrpt_book.pdf)
-[mrpt_book-chs](https://raw.githubusercontent.com/hitrobotgroup/mrpt_org/master/man/mrpt_book-chs.pdf)
-[mrpt_book-chs](https://raw.githubusercontent.com/hitrobotgroup/mrpt_org/master/man/mrpt_book-chs.pdf)
-
+* [mrpt_book](https://raw.githubusercontent.com/hitrobotgroup/mrpt_org/master/man/mrpt_book.pdf)
+* [mrpt_book-chs](https://raw.githubusercontent.com/hitrobotgroup/mrpt_org/master/man/mrpt_book-chs.pdf)
+* [mrpt_tool-chs](https://raw.githubusercontent.com/hitrobotgroup/mrpt_org/master/man/mrpt_tool-chs.pdf)
+* [slam_for_dummies](https://raw.githubusercontent.com/hitrobotgroup/mrpt_org/master/man/slam_for_dummies.pdf)
+* [slam_thesis_mead](https://raw.githubusercontent.com/hitrobotgroup/mrpt_org/master/man/slam_thesis_mead.pdf)
