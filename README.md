@@ -11,7 +11,7 @@ download and install wxwidgets at <http://www.wxwidgets.org/downloads/>
 
 open the msvc 64bit command-line prompt (from the start menu -> MSVC -> Visual Studio Tools) 
 
->$ cd wxwidgets/build/msw
+>$ cd [wxwidgets-dir]/build/msw
 
 >$ nmake -f makefile.vc BUILD=release SHARED=1 RUNTIME_LIBS=dynamic DEBUG_INFO=0 VENDOR=mrpt USE_OPENGL=1 TARGET_CPU=amd64
 
