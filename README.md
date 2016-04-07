@@ -21,7 +21,7 @@ open the msvc 64bit command-line prompt (from the start menu -> MSVC -> Visual S
 
 download and install opencv (2.4.11 strongly recommended) at <http://opencv.org/downloads.html>
 
-download mrpt source code at <http://www.mrpt.org/download-mrpt/>
+download mrpt source code at <http://www.mrpt.org/download-mrpt/> - 
 [zip](https://raw.githubusercontent.com/hitrobotgroup/mrpt_org/master/src/mrpt-1.3.1.zip)
 
 use cmake-gui to build mrpt source and generate msvc projects
