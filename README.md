@@ -3,16 +3,13 @@
 get all mrpt resources at <http://www.mrpt.org>
 
 get precompiled installation at <http://www.mrpt.org/download-mrpt/>
-[exe](https://raw.githubusercontent.com/hitrobotgroup/mrpt_org/master/pkg/mrpt-1.3.1-msvc11-x64.exe)
 
 ***
 # quick installation (for windows)
 
 download and install cmake at <https://cmake.org/download/>
-[exe](https://raw.githubusercontent.com/hitrobotgroup/mrpt_org/master/pkg/cmake-3.3.0-win32-x86.exe)
 
 download and install wxwidgets at <http://www.wxwidgets.org/downloads/>
-[exe](https://raw.githubusercontent.com/hitrobotgroup/mrpt_org/master/pkg/wxwidget-3.0.2-msw.exe)
 
 open the msvc 64bit command-line prompt (from the start menu -> MSVC -> Visual Studio Tools) 
 
@@ -23,8 +20,6 @@ open the msvc 64bit command-line prompt (from the start menu -> MSVC -> Visual S
 >$ nmake -f makefile.vc BUILD=debug SHARED=1 RUNTIME_LIBS=dynamic DEBUG_INFO=1 VENDOR=mrpt USE_OPENGL=1 TARGET_CPU=amd64
 
 download and install opencv (2.4.11 strongly recommended) at <http://opencv.org/downloads.html>
-[opencv-2.4.11.exe](https://raw.githubusercontent.com/hitrobotgroup/mrpt_org/master/pkg/opencv-2.4.11.exe)
-[opencv-3.0.0.exe](https://raw.githubusercontent.com/hitrobotgroup/mrpt_org/master/pkg/opencv-3.0.0.exe)
 
 download mrpt source code at <http://www.mrpt.org/download-mrpt/>
 [zip](https://raw.githubusercontent.com/hitrobotgroup/mrpt_org/master/src/mrpt-1.3.1.zip)
